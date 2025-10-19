@@ -13,7 +13,5 @@ A mini AI chatbot built using Python, Scikit-learn, and Gradio.
 - TF-IDF Vectorizer
 - Gradio (for UI)
 
-## 🚀 Run Locally
-```bash
-pip install -r requirements.txt
-python app.py
+## 💻 Run on Google Colab
+You can open the notebook directly in Colab to train and test the chatbot.
